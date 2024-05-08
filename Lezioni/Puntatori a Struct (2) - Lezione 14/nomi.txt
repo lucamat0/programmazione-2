@@ -1,0 +1,7 @@
+Frodo Baggins 33
+Gandalf TheGrey 2019
+Merry Brandybuck 31
+Peregrin Took 26
+Bilbo Baggins 111
+Samwise Gamgee 32
+SamJunior Gamgee 31
